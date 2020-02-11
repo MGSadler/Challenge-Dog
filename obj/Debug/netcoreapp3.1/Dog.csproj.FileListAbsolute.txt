@@ -1,0 +1,11 @@
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.exe
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.deps.json
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.json
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.dev.json
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.dll
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\bin\Debug\netcoreapp3.1\Dog.pdb
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.csprojAssemblyReference.cache
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfoInputs.cache
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfo.cs
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.dll
+D:\Users\Matt\Documents\Mizzou\2020 Classes - Spring\INFOTC 2040\Dog\obj\Debug\netcoreapp3.1\Dog.pdb
